@@ -133,3 +133,7 @@ kurulum/             SQL kullanıcı betiği ve veritabanı testi
 - Stok kartlarındaki `KOD1` alanına adisyon notları yazılmış durumda; grup
   ağacı olarak kullanılamıyor.
 - `KOD11` (Özel Kod 11) bütün kartlarda boş — THIRD işaretlemesi sıfırdan yapılır.
+
+---
+
+**Lisans:** Kaynak kod tescillidir — tüm hakları saklıdır. İzinsiz kullanılamaz, kopyalanamaz, dağıtılamaz ya da satılamaz. Ayrıntı: [LICENSE](LICENSE).
